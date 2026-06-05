@@ -10,7 +10,7 @@ I plan to add the following additions
 3.  Priority order customization
 4.  Add an app to manage icons, StreamName Matches, priority & register new alternates
 
-################################################################################
+###########################################################################
 ############################## Original Version ################################
 
 This is a little tool I wrote in 2013 to show alternate streams as a windows UI overlay - originally hosted at https://www.benf.org/other/alternatestreamoverlay/index.html 
